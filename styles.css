@@ -1,0 +1,37 @@
+html {
+    margin-left:30%;
+    margin-right:30%;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#output-div {
+    font-size: x-large;
+    margin-top: 4rem;
+}
+
+input[type="date"] {
+    font-size: xx-large;
+}
+
+input[type="number"] {
+    font-size: 25px;
+    margin-top: 2rem;
+}
+
+button{
+    font-size: 30px;
+    border: 2px greenyellow solid;
+    background-color: black;
+    color: blanchedalmond;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+h1 {
+    border: 3px greenyellow solid;
+    padding: 3rem;
+    text-align: center;
+    border-radius: 3rem;
+}
